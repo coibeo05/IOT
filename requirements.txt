@@ -1,0 +1,5 @@
+paho-mqtt>=2.0.0
+influxdb-client
+pandas
+numpy
+scikit-learn
