@@ -1,4 +1,3 @@
-#README
 📡 BÀI THỰC HÀNH 2: HỆ THỐNG XỬ LÝ VÀ TIỀN XỬ LÝ DỮ LIỆU IOT THEO CHUỖI THỜI GIAN (INFLUXDB & PYTHON PIPELINE)
 
 Môn học: INT14149 - IoT và Ứng dụng
